@@ -5,3 +5,4 @@ These are my solutions for the [Advent of Code 2019](https://adventofcode.com/20
 ## ToC
 
 - [Day 01: Sonar Sweep](AdventOfCode2021/Puzzle01)
+- [Day 02: Dive!](AdventOfCode2021/Puzzle02)
