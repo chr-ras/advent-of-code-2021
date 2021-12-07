@@ -18,14 +18,14 @@ let ``Part1.getSchoolSizeAfter_80days`` () =
 [<Fact>]
 let ``sortByCycle`` () =
     let actual = testInput |> Puzzle06.parseInput |> Puzzle06.Part2.sortByCycle
-    Assert.StrictEqual([0; 1; 1; 2; 1; 0; 0; 0], actual)
+    Assert.StrictEqual([0I; 1I; 1I; 2I; 1I; 0I; 0I; 0I; 0I], actual)
 
 [<Fact>]
 let ``Part2.getSchoolSizeAfter_18days`` () =
     let actual = Puzzle06.Part2.getSchoolSizeAfter(18, testInput |> Puzzle06.parseInput)
-    Assert.Equal(26, actual)
+    Assert.Equal(26I, actual)
 
 [<Fact>]
 let ``Part2.getSchoolSizeAfter_80days`` () =
     let actual = Puzzle06.Part2.getSchoolSizeAfter(80, testInput |> Puzzle06.parseInput)
-    Assert.Equal(5934, actual)
+    Assert.Equal(5934I, actual)
