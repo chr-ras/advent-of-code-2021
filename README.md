@@ -10,3 +10,4 @@ These are my solutions for the [Advent of Code 2019](https://adventofcode.com/20
 - [Day 04: Giant Squid](AdventOfCode2021/Puzzle04)
 - [Day 05: Hydrothermal Venture](AdventOfCode2021/Puzzle05)
 - [Day 06: Lanternfish](AdventOfCode2021/Puzzle06)
+- [Day 07: The Treachery of Whales](AdventOfCode2021/Puzzle07)
