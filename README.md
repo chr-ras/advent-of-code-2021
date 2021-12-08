@@ -1,6 +1,6 @@
 # Advent of Code 2021 solutions
 
-These are my solutions for the [Advent of Code 2019](https://adventofcode.com/2021) puzzles. This year, I dipped my toes in [F#](https://fsharp.org/).
+These are my solutions for the [Advent of Code 2021](https://adventofcode.com/2021) puzzles. This year, I dipped my toes in [F#](https://fsharp.org/).
 
 ## ToC
 
@@ -11,3 +11,4 @@ These are my solutions for the [Advent of Code 2019](https://adventofcode.com/20
 - [Day 05: Hydrothermal Venture](AdventOfCode2021/Puzzle05)
 - [Day 06: Lanternfish](AdventOfCode2021/Puzzle06)
 - [Day 07: The Treachery of Whales](AdventOfCode2021/Puzzle07)
+- [Day 08: Seven Segment Search](AdventOfCode2021/Puzzle08)
